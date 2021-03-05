@@ -56,6 +56,7 @@ nav a{
   color: black;
   font-weight: bold;
   text-decoration: none;
+  
 }
 /*Req 2*/
 /*Write selector/rule property to add an underline when
@@ -112,11 +113,11 @@ header{
   /*Req 6a*/
   /*Set margin */
   margin-bottom: 25px;
-
+  background-color: #ddd;
     
   /*Req 6b*/
   /*Set background-image to header.jpg */
-  background-image: url("/images/header.jpg"); 
+  background-image: url("../images/header.jpg"); 
 }
 
 /*Req 7a*/
@@ -178,6 +179,7 @@ header{
     /*Your code here:*/
     text-align: right; 
     vertical-align: middle;
+    background-color: #ddd;
   }
 
   /*Req 11*/
