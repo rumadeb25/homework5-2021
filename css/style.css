@@ -164,6 +164,8 @@ header{
   /*Your code here:*/
   text-align: center;
   vertical-align: middle;
+  align-self: center;
+  justify-self: center;
 }
 
 
